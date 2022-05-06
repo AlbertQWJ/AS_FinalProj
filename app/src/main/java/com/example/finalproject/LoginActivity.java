@@ -73,7 +73,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                         Toast.makeText(this, "登录成功", Toast.LENGTH_SHORT).show();
                         startActivity(new Intent(this, HomeActivity.class));
                         finish();
-                        finish();
                     } else {
                         Toast.makeText(this, "密码不正确，或用户不存在", Toast.LENGTH_SHORT).show();
                     }

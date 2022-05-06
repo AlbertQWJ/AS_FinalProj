@@ -6,7 +6,17 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.287" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/button_background.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/edit_text_background.xml" value="0.297" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_fast_forward_24.xml" value="0.304" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_fast_rewind_24.xml" value="0.304" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_local_movies_24.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_pause_circle_filled_24.xml" value="0.304" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.304" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.275" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.297" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.275" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/drawable/login_textview.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/activity_login.xml" value="0.33" />
@@ -17,8 +27,15 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_first.xml" value="0.40729166666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_second.xml" value="0.40729166666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/fragment_second2.xml" value="0.40729166666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/list_fragment.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/login_tab_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/music_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/search_fragment.xml" value="0.5" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/signup_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/layout/video_fragment.xml" value="0.525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/menu/menu.xml" value="0.525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FinalProject/app/src/main/res/menu/navigation.xml" value="0.5" />
       </map>
     </option>
   </component>
