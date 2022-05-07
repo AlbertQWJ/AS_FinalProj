@@ -28,7 +28,6 @@ public class MusicFragment extends Fragment {
     MediaPlayer mediaPlayer;
     Handler handler = new Handler();
     Runnable runnable;
-    private Object View;
 
     @Nullable
     @Override

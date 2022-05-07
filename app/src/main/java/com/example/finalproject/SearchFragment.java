@@ -20,12 +20,8 @@ public class SearchFragment extends Fragment {
     @Override
 
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.search_fragment,container,false);
-    }
+        View view = inflater.inflate(R.layout.search_fragment,container,false);
 
-    @Override
-    public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
-        super.onViewCreated(view, savedInstanceState);
         webview = (WebView) view.findViewById(R.id.searchfragment_webView);
         WebSettings settings = webview.getSettings();
         settings.setJavaScriptEnabled(true);
@@ -38,6 +34,8 @@ public class SearchFragment extends Fragment {
         settings.setLoadWithOverviewMode(true);
         settings.setBuiltInZoomControls(true);
         settings.setSupportZoom(true);//设定支持缩放
+
+        return view;
     }
 }
 

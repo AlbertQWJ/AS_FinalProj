@@ -41,7 +41,7 @@ public class HomeActivity extends AppCompatActivity {
                         fragment = new VideoFragment();
                         break;
                     case R.id.navigation_list:
-                        fragment = new VideoFragment();
+                        fragment = new ListFragment();
                         break;
                 }
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragmentContainer,fragment).commit();

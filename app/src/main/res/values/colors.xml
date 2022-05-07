@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="theme">#4ea2d1</color>
     <color name="theme_btn">#91313f</color>
+    <color name="theme_bg">#77B8DD</color>
 </resources>
