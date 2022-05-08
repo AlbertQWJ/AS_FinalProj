@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="12dp"
+    android:layout_marginLeft="12dp"
+    android:layout_marginTop="12dp"
+    app:contentPadding="12dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="1dp"
+    app:cardBackgroundColor="#FCFAF2">
+
+    <RelativeLayout
+        android:layout_width="365dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/item_cover"
+            android:layout_width="55dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/ic_launcher"
+            android:text="1"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/item_cover"
+            android:singleLine="true"
+            android:text="3389-应用开发期末大作业"
+            android:textColor="#9b9a95"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_writer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_id"
+            android:layout_alignLeft="@id/item_id"
+            android:layout_marginTop="10dp"
+            android:text="裘伟杰"
+            android:textColor="#888"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/item_line"
+            android:layout_width="2dp"
+            android:layout_height="18dp"
+            android:layout_alignTop="@id/item_writer"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@id/item_writer"
+            android:background="#888" />
+
+        <TextView
+            android:id="@+id/item_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/item_writer"
+            android:layout_toRightOf="@id/item_line"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="2022"
+            android:textColor="#888"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/item_line2"
+            android:layout_width="2dp"
+            android:layout_height="18dp"
+            android:layout_alignTop="@id/item_writer"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toRightOf="@id/item_date"
+            android:background="#888" />
+
+        <TextView
+            android:id="@+id/item_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/item_writer"
+            android:layout_toRightOf="@id/item_line2"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="1923028"
+            android:textColor="#888"
+            android:textSize="14sp" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -3,5 +3,5 @@
     <string name="title_music">Music</string>
     <string name="title_search">Search</string>
     <string name="title_video">Video</string>
-    <string name="title_list">List</string>
+    <string name="title_list">BookList</string>
 </resources>
